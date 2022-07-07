@@ -33,6 +33,9 @@
 		BFD23148287358890033360A /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFD23147287358890033360A /* Poppins-Medium.ttf */; };
 		BFD23149287358890033360A /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFD23147287358890033360A /* Poppins-Medium.ttf */; };
 		BFD2314A287358890033360A /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFD23147287358890033360A /* Poppins-Medium.ttf */; };
+		BFF3100D2875D0650091C616 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF3100C2875D0650091C616 /* DetailView.swift */; };
+		BFF3100E2875D0650091C616 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF3100C2875D0650091C616 /* DetailView.swift */; };
+		BFF3100F2875D0650091C616 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF3100C2875D0650091C616 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +74,7 @@
 		BFB0683F2871EBD000AEBCEC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		BFB068432871F23600AEBCEC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		BFD23147287358890033360A /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		BFF3100C2875D0650091C616 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +131,7 @@
 				BFD23147287358890033360A /* Poppins-Medium.ttf */,
 				BFB068332871DB5B00AEBCEC /* Poppins-SemiBold.ttf */,
 				BF9A6C7D28709DD000D8629C /* FavfoodsApp.swift */,
+				BFF3100C2875D0650091C616 /* DetailView.swift */,
 				BF9A6C7F28709DD000D8629C /* ContentView.swift */,
 				BFB06830287195D400AEBCEC /* GetStartedView.swift */,
 				BFB0683F2871EBD000AEBCEC /* HomeView.swift */,
@@ -310,6 +315,7 @@
 				BF9A6C8028709DD000D8629C /* ContentView.swift in Sources */,
 				BFB068402871EBD000AEBCEC /* HomeView.swift in Sources */,
 				BFB06831287195D400AEBCEC /* GetStartedView.swift in Sources */,
+				BFF3100D2875D0650091C616 /* DetailView.swift in Sources */,
 				BF9A6C7E28709DD000D8629C /* FavfoodsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -319,6 +325,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF9A6C8F28709DD300D8629C /* FavfoodsTests.swift in Sources */,
+				BFF3100E2875D0650091C616 /* DetailView.swift in Sources */,
 				BFB068412871EBD000AEBCEC /* HomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -328,6 +335,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFB068422871EBD000AEBCEC /* HomeView.swift in Sources */,
+				BFF3100F2875D0650091C616 /* DetailView.swift in Sources */,
 				BF9A6C9B28709DD300D8629C /* FavfoodsUITestsLaunchTests.swift in Sources */,
 				BF9A6C9928709DD300D8629C /* FavfoodsUITests.swift in Sources */,
 			);
